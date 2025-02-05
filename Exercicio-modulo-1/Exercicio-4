@@ -1,0 +1,24 @@
+Exercicio 4
+
+Pilha:
+ - Push: O(1)
+ - pop: O(1)
+
+R:Nenhum dos metodos possui repeticoes, o que os torna O(1).
+
+Fila:
+ - enqueue: O(1)
+ - dequeue: O(1)
+ - rear: O(1)
+ - front: O(1)
+
+R:Nenhum dos metodos possui repeticoes, o que os torna O(1).
+
+Lista Encadeada:
+ - push: O(n)
+ - pop: O(n)
+ - insert: O(n)
+ - remove: O(n)
+ - elementAt: O(n)
+
+ R: Os metodos possuem 1 repeticao, oque os torna O(n).
